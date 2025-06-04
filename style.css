@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    height: 100vh;
+    background-color: yellow;
+}
+
+.container{
+    height: 650px;
+    width: 500px;
+    background: white;
+    
+}
